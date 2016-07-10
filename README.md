@@ -1,6 +1,6 @@
 ### Student Information System
 
-This C++ project can incert, search, update, delete, grouping information. It store data in a binary(.BIN) file. It will execute Turbo C++ 3.0 to upper version.
+This C++ project can insert, search, update, delete, grouping information. It store data in a binary(.BIN) file. It will execute Turbo C++ 3.0 to upper version.
 
 ##### Development Technology :
 ---
