@@ -24,7 +24,7 @@ This C++ project can insert, search, update, delete, grouping information. It st
 
 ![alt text](http://i.imgur.com/IAEe0hl.jpg "Data Entry Form")
 
-#### Author
+#### Author :
 Arifur Rahman ( arif.rahman2009@gmail.com )
 
 #### License :
